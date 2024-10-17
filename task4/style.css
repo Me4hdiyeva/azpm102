@@ -1,0 +1,49 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+
+}
+
+nav{
+  background-color: gray;
+  height: 60px;
+  display: flex;
+  padding-top: 20px;
+}
+
+li{
+  color: azure;
+  list-style: none;
+  margin-left: 20px
+  
+}
+a{
+  color: azure;
+  text-decoration: none;
+
+}
+h1 {
+  margin-top: 20PX;
+}
+p{
+  padding-top: 20px;
+}
+.dropdown{
+  position: relative;
+}
+.dropdown:hover{
+display: block;
+
+}
+
+.dropdown .drop{
+padding: 20px 30px;
+position: absolute;
+ 
+  
+  background-color: #ba2;
+
+
+}

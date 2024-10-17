@@ -1,0 +1,40 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing:border-box ;
+
+}
+body{
+  margin: 20px;
+  
+}
+
+section{
+  border: 2px solid purple ;
+  display: flex;
+  padding: 20px;
+  margin: 20px;
+}
+.div1{
+  border: 2px solid blue;
+  width: 90px;
+  height: 60px;
+}
+.tab3{
+  display: grid;
+}
+.div2{
+  border: 2px solid blue;
+
+}
+.p1{
+  text-align: center;
+  padding-top: 16px;
+}
+.p2{
+  margin: 20px;
+}
+
+
+
+

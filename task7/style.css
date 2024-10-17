@@ -1,0 +1,144 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+}
+
+header nav {
+  width: 100%;
+  height: 40px;
+  background-color: rgb(58, 56, 56);
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 100px 0px 100px;
+  /* max-width: 80%; */
+  /* margin: 0 auto; */
+
+
+}
+
+header nav h1 {
+  color: aliceblue;
+  font-size: large;
+  font-family: 'Courier New', Courier;
+}
+
+header nav ul {
+  display: flex;
+  gap: 20px;
+
+}
+
+header nav ul li {
+  list-style: none;
+}
+
+header nav ul li a {
+
+  text-decoration: none;
+  color: white;
+
+}
+
+section .container-top{
+  /* border: 2px solid black; */
+  /* width: 80%; */
+  margin: 0 auto;
+  /* margin-top: 20px; */
+  max-width: 1320px;
+}
+
+.large-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  padding: 20px;
+  background-color: aliceblue;
+}
+
+.container-top h1{
+  text-align: center;
+  /* padding: 20px; */
+}
+.container-top p{
+  text-align: center;
+  
+  padding: 26px;
+  
+}
+button{
+  width: 107px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: blue;
+  padding-top: 10px;
+  text-align: center;
+  color: azure;
+}
+
+.container-top button{
+  display: flex;
+  justify-content: center;
+}
+.col-12{
+  width: calc((100%/12)*12);
+  padding: 16px;
+}
+
+
+main section .container{
+  /* width: 80%; */
+  max-width: 1320px;
+
+  /* border: 2px solid black; */
+  margin: 0 auto;
+  margin-top:20px;
+}
+ .row{
+  display: flex;
+flex-wrap: wrap;
+  
+}
+.col-4{
+  /* width: 300p  x; */
+  width: calc((100%/12)*4);
+  padding: 22px;
+  /* margin-top: 20px; */
+}
+
+.card{
+  background-color: aliceblue;
+  /* margin: 0 auto; */
+  width: 360px;
+  height: 230px;
+  /* border: 2px solid black; */
+  /* gap: 60px; */
+}
+.card h1{
+text-align: center;
+padding: 20px; 
+
+}
+.card p{
+  text-align: center;
+  
+  padding: 20px;
+}
+footer{
+
+  width: 100%;
+  height: 100%;
+  background-color: rgb(38, 37, 37);
+}
+footer p {
+  margin-top: 50px;
+  text-align: center;
+  padding: 60px
+}
+
