@@ -1,0 +1,12 @@
+#carouselExampleDark{
+  background-color: grey;
+  padding: 145px;
+  
+
+}
+.carousel-caption {
+  width: 50px;
+}
+.active{
+  padding-top: 20px;
+}
