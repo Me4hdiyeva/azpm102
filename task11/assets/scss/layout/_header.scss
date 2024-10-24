@@ -1,0 +1,81 @@
+header {
+  // background-image: url(https://s3-alpha-sig.figma.com/img/97dc/8eea/8189c35b9d8d4bfab6686558dea917ac?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aCYw~7bnCuhDADG52bKd5i0vz~v8CD0SrQ-CMq-tcrUKnHuoNZD0JZgPA7M3pLgoe9vAp2enbOWiSPQ32U2kpAZHe3PRdIrssB5XRqj7WUSGYfek4v9~B3afeFE3aZAiwrEaQ4PvF5dHla8S6WrTJ1zqbLXVL0UQvhF19QAHBkTkck~VDlHjopPg66d~aYwPtMKn4fEpXqGonSEcN6Y8oe2lFzmXNzE9VhvLpX~42a~guRIaRrCFeu51nVR9--4E3Y4gU3oDNklSmkpvjz3aD0NVLFajv3qfpAu1as5IC2wDoc84D0NoGil3LB7DEMUeNdeLoAx3ZjkKhF8fyH5qaw__);
+
+  // background-color:  rgba(28, 31, 82, 1);
+  background: linear-gradient(0deg, rgba(28, 31, 82, 0.434), rgba(28, 31, 82, 0.434)), url('https://s3-alpha-sig.figma.com/img/97dc/8eea/8189c35b9d8d4bfab6686558dea917ac?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=aCYw~7bnCuhDADG52bKd5i0vz~v8CD0SrQ-CMq-tcrUKnHuoNZD0JZgPA7M3pLgoe9vAp2enbOWiSPQ32U2kpAZHe3PRdIrssB5XRqj7WUSGYfek4v9~B3afeFE3aZAiwrEaQ4PvF5dHla8S6WrTJ1zqbLXVL0UQvhF19QAHBkTkck~VDlHjopPg66d~aYwPtMKn4fEpXqGonSEcN6Y8oe2lFzmXNzE9VhvLpX~42a~guRIaRrCFeu51nVR9--4E3Y4gU3oDNklSmkpvjz3aD0NVLFajv3qfpAu1as5IC2wDoc84D0NoGil3LB7DEMUeNdeLoAx3ZjkKhF8fyH5qaw__');
+  // overflow: auto; 
+  background-size: cover;
+
+  .container {
+    padding: 50px;
+
+    .svg-container {
+      display: flex;
+      justify-content: space-between;
+
+
+
+
+    }
+
+    .row {
+      margin-top: 90PX;
+
+      .col-4 {
+        display: flex;
+        flex-direction: column;
+
+        h1 {
+          font-family: Roboto;
+          font-size: 64px;
+          font-weight: 300;
+          line-height: 75px;
+          text-align: left;
+          color: aliceblue;
+
+
+        }
+
+        p {
+          width: 401px;
+          height: 84px;
+          top: 306px;
+          left: 80px;
+          gap: 0px;
+          opacity: 0px;
+          font-family: Roboto;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 21.09px;
+          text-align: left;
+          color: rgba(255, 255, 255, 1);
+          font-family: Roboto;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 21.09px;
+          text-align: left;
+          margin-top: 40PX;
+
+
+        }
+      }
+      
+      .col-8 {}
+      
+    }
+    
+    .logs {
+      display: flex;
+      gap: 100px;
+
+    }
+
+
+
+  }
+
+
+
+
+
+}
