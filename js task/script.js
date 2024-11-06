@@ -21,12 +21,12 @@
 // let test = num1.map(x => x+2)
 
 
-String.prototype.newWord = function(){
+// String.prototype.newWord = function(){
 
-console.log(this.split(" ").toUpperCase()+this.slice(1));
+// console.log(this.split(" ").toUpperCase()+this.slice(1));
 
-}
-let word = "aysu lale" 
+// }
+// let word = "aysu lale" 
 
 
 // word.newWord();
