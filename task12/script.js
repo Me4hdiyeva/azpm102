@@ -29,6 +29,19 @@ copy.addEventListener("click",function(){
 }
 ) 
 
+ipt.addEventListener("change",function(){
+   if (ipt.checked) {
+    txt.disabled = false;
+   }
+   else{
+    txt.disabled = true;
+   }
+
+}
+)
+
+
+
 window.addEventListener("keydown", function (v) {
     if(v.key === "w"){
         x++;
