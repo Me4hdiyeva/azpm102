@@ -6,14 +6,14 @@ function App() {
   return (
     <div className="container">
       <div className="row">
-        <Card title="Main 1" imageUrl="https://www.w3schools.com/w3images/house3.jpg"/>
-        <Card title="Main 1" imageUrl="https://www.w3schools.com/w3images/house3.jpg"/>
-        <Card title="Main 1" imageUrl="https://www.w3schools.com/w3images/house3.jpg"/>
-        <Card title="Main 1" imageUrl="https://www.w3schools.com/w3images/house3.jpg"/>
-        <Card title="Main 1" imageUrl="https://www.w3schools.com/w3images/house3.jpg"/>
-        <Card title="Main 1" imageUrl="https://www.w3schools.com/w3images/house3.jpg"/>
-        <Card title="Main 1" imageUrl="https://www.w3schools.com/w3images/house3.jpg"/>
-        <Card title="Main 1" imageUrl="https://www.w3schools.com/w3images/house3.jpg"/>
+        <Card title="Summer House" imageUrl="https://www.w3schools.com/w3images/house5.jpg"/>
+        <Card title="Brick House" imageUrl="https://www.w3schools.com/w3images/house2.jpg"/>
+        <Card title="Renovated" imageUrl="https://www.w3schools.com/w3images/house3.jpg"/>
+        <Card title="Barn House" imageUrl="https://www.w3schools.com/w3images/house4.jpg"/>
+        <Card title="Summer House" imageUrl="https://www.w3schools.com/w3images/house2.jpg"/>
+        <Card title="Brick House" imageUrl="https://www.w3schools.com/w3images/house5.jpg"/>
+        <Card title="Renovated" imageUrl="https://www.w3schools.com/w3images/house4.jpg"/>
+        <Card title="Barn House" imageUrl="https://www.w3schools.com/w3images/house3.jpg"/>
 
 
       </div>
