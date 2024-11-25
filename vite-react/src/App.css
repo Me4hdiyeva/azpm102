@@ -1,0 +1,17 @@
+
+.cards{
+  position: relative;
+  /* padding-top: 10px; */
+
+}
+.cards img{
+  width: 100%;
+}
+.title{
+  position: absolute;
+  background-color: black;
+  color: aliceblue;
+  padding: 6px;
+  top: 0;
+  left: 0;
+}
