@@ -1,0 +1,33 @@
+
+.slide{
+    background-image: url("https://149842022.v2.pressablecdn.com/travelify/wp-content/uploads/sites/53/2013/03/featured-2-1.jpg");
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    .div{
+        background-color: black;
+        opacity: 0.5;
+        width: 500px;
+        height: 300px;
+        bottom: 20px;
+        right: 20px;
+        position: absolute;
+        h1{
+            color: aliceblue;
+            position: absolute;
+            right: 20px;
+
+        }
+        p{
+            position: absolute;
+            top: 30px;
+            right: 20px;
+color: aliceblue;
+        }
+    }
+
+    
+
+}
