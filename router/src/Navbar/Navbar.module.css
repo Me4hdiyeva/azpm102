@@ -1,0 +1,25 @@
+/* src/components/MyComponent.module.scss */
+.navTop {
+  padding-left: 20px;
+}
+.navTop h1 {
+  color: green;
+  margin-top: 30px;
+}
+.navTop p {
+  padding-bottom: 20px;
+}
+
+.navbar {
+  background-color: rgb(137, 214, 21);
+  padding: 10px;
+}
+.navbar ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+.navbar ul a {
+  color: white;
+  text-decoration: none;
+}/*# sourceMappingURL=Navbar.module.css.map */
